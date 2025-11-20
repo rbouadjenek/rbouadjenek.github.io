@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Deakin University</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Lecturer <br>School of Information Technology<br> <a href='https://www.deakin.edu.au/'>Deakin University</a>.
 
 profile:
   align: right
