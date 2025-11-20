@@ -26,6 +26,13 @@
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
+        {% if site.logo %}
+            <img
+              src="{{ site.logo | relative_url }}"
+              alt="Deakin University logo"
+              style="height: 32px; margin-right: 8px;"
+            />
+        {% endif %}
       {% endif %}
       <!-- Navbar Toggle -->
       <button
