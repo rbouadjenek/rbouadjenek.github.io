@@ -11,16 +11,10 @@
               style="height: 32px; margin-right: 8px;"
             />
           {% endif %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
             {% if site.last_name %}
-              {{- site.last_name -}}
+              <span class="font-weight-bold">
+                {{- site.last_name -}}
+              </span>
             {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
