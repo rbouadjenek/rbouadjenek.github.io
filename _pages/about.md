@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer <br>School of Information Technology<br>  <a href='https://www.deakin.edu.au/'>Deakin University</a>.
+subtitle: <a href='#'>Deakin University</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -28,5 +28,4 @@ latest_posts:
 ---
 
 I'm a Senior Lecturer (Assistant Professor) of Applied Artificial Intelligence in the School of Information Technology at Deakin University, Australia. Previously, I was a Research Fellow at The University of Toronto (2017-2019) and at The University of Melbourne (2015-2017) and before that, I was a postdoc researcher at the French Institute for Research in Computer Science and Automation (INRIA 2014-2015), France. I earned a Ph.D. and an MSc in Computer Science from the University of Paris-Saclay France respectively in 2013 and 2009, and a BSc in Computer Science from the University of Science and Technology Houari Boumediene in 2008. My research spans a broad range of topics related to the data-driven fields of Machine Learning, Deep Learning and Information Retrieval. I have applied analytic and algorithmic tools from these fields to solve real-world problems related to diverse applications such as recommender systems, interactive visual search interfaces, social network analysis, and data quality.
-
 
