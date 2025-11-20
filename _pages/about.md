@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer <br>School of Information Technology<br> <a href='https://www.deakin.edu.au/'>Deakin University</a>.
+subtitle: BSc., MSc., and Ph.D. in Computer Science<br> Senior Lecturer, Applied Artificial Intelligence<br>School of Information Technology<br> <a href='https://www.deakin.edu.au/'>Deakin University</a>.
 
 profile:
   align: right
   image: Reda9.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>KA5.201.W26</p>
-    <p>75 Pigdons Rd</p>
+    <p>KA5.201.W26</p><br>
+    <p>75 Pigdons Rd</p><br>
     <p>Waurn Ponds, VIC 3216</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
