@@ -13,13 +13,21 @@
           {% endif %}
             {% if site.last_name %}
               <span class="font-weight-bold">
-                {{- site.last_name -}}
+                Dr. {{- site.last_name -}}
               </span>
             {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
+        {% if site.logo %}
+            <img
+              src="{{ site.logo | relative_url }}"
+              alt="Deakin University logo"
+              style="height: 32px; margin-right: 8px;"
+            />
+        {% endif %}
+      {% else %}
         {% if site.logo %}
             <img
               src="{{ site.logo | relative_url }}"
