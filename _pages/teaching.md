@@ -10,7 +10,7 @@ nav_order: 6
             
 <div class="row">
                 <h3>Accreditation</h3>                
-                <a href="statements/RedaBouadjenek-Fellowship.pdf"cle>Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
+                <a href="statements/RedaBouadjenek-Fellowship.pdf">Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
                  <h3>Seminars</h3> 
                 <ul>
                     <li>Lecture 4  (May 2023): Variational AutoEncoder. <a href="papers/vae_Reda@Deakin.pdf"> [pdf] </a> <a href="papers/vae_Reda@Deakin.pptx"> [pptx] </a></li>
