@@ -7,10 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+            
 <div class="row">
-                <h2> Teaching</h2>
-            </div>            
-            <div class="row">
                 <h3>Accreditation</h3>                
                 <a href="statements/RedaBouadjenek-Fellowship.pdf"cle>Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
                  <h3>Seminars</h3> 
@@ -55,7 +53,7 @@ nav_order: 6
                     <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
                     <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT740">SIT740, Research and Development in Information Technology</a> (T1).</li>
                 </ul>
-            </div>          
+</div>          
             <div class="row">
                 <h3>The University of Toronto, Canada</h3>
                 <h4>Lecturer, Winter 2019</h4>
