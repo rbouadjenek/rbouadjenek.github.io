@@ -372,3 +372,151 @@ selected= {false},
 abbr= {CHIIR},
 }
 
+@article{Bouadjenek2019,
+  author       = {Mohamed Reda Bouadjenek and Justin Zobel and Karin Verspoor},
+  title        = {Automated assessment of biological database assertions using the scientific literature},
+  journal      = {BMC Bioinformatics},
+  year         = {2019},
+  volume       = {20},
+  number       = {1},
+  pages        = {216},
+  abstract     = {The large biological databases such as GenBank contain vast numbers of records, the content of which is substantively based on external resources, including published literature. Manual curation is used to establish whether the literature and the records are indeed consistent. We explore in this paper an automated method for assessing the consistency of biological assertions, to assist biocurators, which we call BARC, Biocuration tool for Assessment of Relation Consistency. In this method a biological assertion is represented as a relation between two objects (for example, a gene and a disease); we then use our novel set-based relevance algorithm SaBRA to retrieve pertinent literature, and apply a classifier to estimate the likelihood that this relation (assertion) is correct.},
+  doi          = {10.1186/s12859-019-2801-x},
+  url          = {https://doi.org/10.1186/s12859-019-2801-x},
+  issn         = {1471-2105},
+pdf= {BINF-D-18-00977.pdf},
+preview= {bmc.png},
+selected= {false},
+}
+
+
+@inbook{doi:10.1137/1.9781611975673.25,
+author = {Yakun Wang and Ga Wu and Mohamed Reda Bouadjenek and Scott Sanner and Sen Su and Zhongbao Zhang},
+title = {A Novel Regularizer for Temporally Stable Learning with an Application to Twitter Topic Classification},
+booktitle = {Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)},
+chapter = {},
+pages = {217-225},
+doi = {10.1137/1.9781611975673.25},
+URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.25},
+eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.25},
+    abstract = { Abstract Supervised topic classifiers for Twitter and other media sources are important in a variety of long-term topic tracking tasks. Unfortunately, over long periods of time, features that are predictive during the training period may prove ephemeral and fail to generalize to prediction at future times. For example, if we trained a classifier to identify tweets concerning the topic of “Celebrity Death”, individual celebrity names and terms associated with these celebrities such as “Nelson Mandela” or “South Africa” would prove to be temporally unstable since they would not generalize over long periods of time; in contrast, terms like “RIP” (rest in peace) would prove to be temporally stable predictors of this topic over long periods of time. In this paper, we aim to design supervised learning methods for Twitter topic classifiers that are capable of automatically downweighting temporally unstable features to improve future generalization. To do this, we first begin with an oracular approach that chooses temporally stable features based on knowledge of both train and test data labels. We then search for feature metrics evaluated on only the training data that are capable of recovering the temporally stable features identified by our oracular definition. We next embed the top-performing metric as a temporal stability regularizer in logistic regression with the important property that the overall training objective retains convexity, hence enabling a globally optimal solution. Finally, we train our topic classifiers on 6 Twitter topics over roughly one year of data and evaluate on the following year of data, showing that logistic regression with our temporal stability regularizer generally outperforms logistic regression without such regularization across the full precision-recall continuum. Overall, these results establish a novel regularizer for training long-term temporally stable topic classifiers for Twitter and beyond. },
+pdf= {SDM2019.pdf},
+preview= {SIAM_logo.png},
+selected= {false},
+abbr= {SDM},
+}
+
+@inproceedings{10.1145/3331184.3331292,
+author = {Wu, Ga and Bouadjenek, Mohamed Reda and Sanner, Scott},
+title = {One-Class Collaborative Filtering with the Queryable Variational Autoencoder},
+year = {2019},
+isbn = {9781450361729},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3331184.3331292},
+doi = {10.1145/3331184.3331292},
+abstract = {Variational Autoencoder (VAE) based methods for Collaborative Filtering (CF) demonstrate remarkable performance for one-class (implicit negative) recommendation tasks by extending autoencoders with relaxed but tractable latent distributions. Explicitly modeling a latent distribution over user preferences allows VAEs to learn user and item representations that not only reproduce observed interactions, but also generalize them by leveraging learning from similar users and items. Unfortunately, VAE-CF can exhibit suboptimal learning properties; e.g., VAE-CFs will increase their prediction confidence as they receive more preferences per user, even when those preferences may vary widely and create ambiguity in the user representation. To address this issue, we propose a novel Queryable Variational Autoencoder (Q-VAE) variant of the VAE that explicitly models arbitrary conditional relationships between observations. The proposed model appropriately increases uncertainty (rather than reduces it) in cases where a large number of user preferences may lead to an ambiguous user representation. Our experiments on two benchmark datasets show that the Q-VAE generally performs comparably or outperforms VAE-based recommenders as well as other state-of-the-art approaches and is generally competitive across the user preference density spectrum, where other methods peak for certain preference density levels.},
+booktitle = {Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {921–924},
+numpages = {4},
+keywords = {variational autoencoder, one-class collaborative filtering, conditional inference},
+location = {Paris, France},
+series = {SIGIR'19},
+pdf= {SIGIR_Short_2019.pdf},
+preview= {acm.png},
+selected= {false},
+abbr= {SIGIR},
+}
+
+@article{GUPTA2020878,
+title = {Evaluation of Machine Learning Algorithms for Predicting Readmission After Acute Myocardial Infarction Using Routinely Collected Clinical Data},
+journal = {Canadian Journal of Cardiology},
+volume = {36},
+number = {6},
+pages = {878-885},
+year = {2020},
+issn = {0828-282X},
+doi = {https://doi.org/10.1016/j.cjca.2019.10.023},
+url = {https://www.sciencedirect.com/science/article/pii/S0828282X19313583},
+author = {Shagun Gupta and Dennis T. Ko and Paymon Azizi and Mohamed Reda Bouadjenek and Maria Koh and Alice Chong and Peter C. Austin and Scott Sanner},
+abstract = {Background
+The ability to predict readmission accurately after hospitalization for acute myocardial infarction (AMI) is limited in current statistical models. Machine-learning (ML) methods have shown improved predictive ability in various clinical contexts, but their utility in predicting readmission after hospitalization for AMI is unknown.
+Methods
+Using detailed clinical information collected from patients hospitalized with AMI, we evaluated 6 ML algorithms (logistic regression, naïve Bayes, support vector machines, random forest, gradient boosting, and deep neural networks) to predict readmission within 30 days and 1 year of discharge. A nested cross-validation approach was used to develop and test models. We used C-statistics to compare discriminatory capacity, whereas the Brier score was used to indicate overall model performance. Model calibration was assessed using calibration plots.
+Results
+The 30-day readmission rate was 16.3%, whereas the 1-year readmission rate was 45.1%. For 30-day readmission, the discriminative ability for the ML models was modest (C-statistic 0.641; 95% confidence interval (CI), 0.621-0.662 for gradient boosting) and did not outperform previously reported methods. For 1-year readmission, different ML models showed moderate performance, with C-statistics around 0.72. Despite modest discriminatory capabilities, the observed readmission rates were markedly higher in the tenth decile of predicted risk compared with the first decile of predicted risk for both 30-day and 1-year readmission.
+Conclusions
+Despite including detailed clinical information and evaluating various ML methods, these models did not have better discriminatory ability to predict readmission outcomes compared with previously reported methods.
+Résumé
+Contexte
+Les modèles statistiques actuels ne permettent pas de prédire avec exactitude la réadmission après une hospitalisation pour cause d’infarctus aigu du myocarde (IAM). Les méthodes de prédiction faisant appel à l’apprentissage automatique ont été associées à une amélioration de la capacité de prédiction dans divers contextes cliniques, mais leur utilité pour prédire la réadmission après une hospitalisation pour cause d’IAM demeure inconnue.
+Méthodologie
+À l’aide de données cliniques détaillées recueillies auprès de patients hospitalisés pour un IAM, nous avons évalué six algorithmes d’apprentissage automatique (régression logistique, classification naïve bayésienne, machine à vecteurs de support, forêt aléatoire, boosting par descente de gradient fonctionnelle et réseaux neuronaux d’apprentissage profond) pour prédire la réadmission dans les 30 jours et dans l’année suivant la sortie de l’hôpital. Les modèles ont été mis au point et testés à l’aide d’une approche de validation croisée imbriquée. Nous avons utilisé la statistique C pour comparer la capacité de discrimination des différents modèles, et le score de Brier pour en chiffrer le rendement global. Le calage des modèles a été évalué au moyen de courbes d’étalonnage.
+Résultats
+Le taux de réadmission à 30 jours était de 16,3 %, tandis que le taux de réadmission à 1 an était de 45,1 %. Dans le cas de la réadmission à 30 jours, la capacité de discrimination des modèles d’apprentissage automatique était modeste (statistique C : 0,641; intervalle de confiance [IC] à 95 % : 0,621-0,662 pour le boosting par descente de gradient fonctionnelle) et n’était pas supérieure à celle des méthodes déjà utilisées. Dans le cas de la réadmission à 1 an, différents modèles d’apprentissage automatique se sont révélés modérément efficaces, la statistique C se chiffrant à environ 0,72. En dépit des modestes capacités de discrimination des différentes méthodes, les taux de réadmission observés étaient nettement plus élevés dans le dixième décile du risque prédit comparativement à ceux du premier décile, pour la réadmission à 30 jours comme pour la réadmission à 1 an.
+Conclusions
+Malgré le recours à des données cliniques détaillées et à différentes méthodes d’apprentissage automatique, les modèles évalués n’ont pas montré une capacité de discrimination supérieure à celle des méthodes déjà utilisées pour prédire la réadmission.}
+,
+pdf= {CJC2020.pdf},
+preview={Elsevier.svg.png},
+selected= {false},
+}
+
+
+@ARTICLE{8827945,
+  author={Zhang, Bohan and Sanner, Scott and Bouadjenek, Mohamed Reda and Gupta, Shagun},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Bayesian Networks for Data Integration in the Absence of Foreign Keys}, 
+  year={2020},
+  volume={32},
+  number={4},
+  pages={803-808},
+  keywords={Bayes methods;Probabilistic logic;Data integration;Periodic structures;Education;Data models;Random variables;Bayesian networks;probabilistic data integration},
+  doi={10.1109/TKDE.2019.2940019},
+pdf= {TKDE2940019.pdf},
+preview= {IEEELogo.png},
+selected= {false},
+abbr= {TKDE},
+}
+
+@article{BOUADJENEK2020101592,
+title = {Relevance- and interface-driven clustering for visual information retrieval},
+journal = {Information Systems},
+volume = {94},
+pages = {101592},
+year = {2020},
+issn = {0306-4379},
+doi = {https://doi.org/10.1016/j.is.2020.101592},
+url = {https://www.sciencedirect.com/science/article/pii/S0306437920300752},
+author = {Mohamed Reda Bouadjenek and Scott Sanner and Yihao Du},
+keywords = {Visual information retrieval, Relevance-driven Clustering, Visual search user study, Clustering via filter optimization},
+abstract = {Search results of spatio-temporal data are often displayed on a map, but when the number of matching search results is large, it can be time-consuming to individually examine all results, even when using methods such as filtered search to narrow the content focus. This suggests the need to aggregate results via a clustering method. However, standard unsupervised clustering algorithms like K-means (i) ignore relevance scores that can help with the extraction of highly relevant clusters, and (ii) do not necessarily optimize search results for purposes of visual presentation. In this article, we address both deficiencies by framing the clustering problem for search-driven user interfaces in a novel optimization framework that (i) aims to maximize the relevance of aggregated content according to cluster-based extensions of standard information retrieval metrics and (ii) defines clusters via constraints that naturally reflect interface-driven desiderata of spatial, temporal, and keyword coherence that do not require complex ad-hoc distance metric specifications as in K-means. After comparatively benchmarking algorithmic variants of our proposed approach – RadiCAL – in offline experiments, we undertake a user study with 24 subjects to evaluate whether RadiCAL improves human performance on visual search tasks in comparison to K-means clustering and a filtered search baseline. Our results show that (a) our binary partitioning search (BPS) variant of RadiCAL is fast, near-optimal, and extracts higher-relevance clusters than K-means, and (b) clusters optimized via RadiCAL result in faster search task completion with higher accuracy while requiring a minimum workload leading to high effectiveness, efficiency, and user satisfaction among alternatives.},
+pdf= {IS_101592.pdf},
+preview={Elsevier.svg.png},
+selected= {false},
+abbr= {InfoSys},
+}
+
+@InProceedings{10.1007/978-3-030-73973-7_10,
+author={Gupta, Shashank
+and Robles-Kelly, Antonio
+and Bouadjenek, Mohamed Reda},
+editor={Torsello, Andrea
+and Rossi, Luca
+and Pelillo, Marcello
+and Biggio, Battista
+and Robles-Kelly, Antonio},
+title={Feature Extraction Functions for Neural Logic Rule Learning},
+booktitle={Structural, Syntactic, and Statistical Pattern Recognition},
+year={2021},
+publisher={Springer International Publishing},
+address={Cham},
+pages={98--107},
+abstract={Combining symbolic human knowledge with neural networks provides a rule-based ante-hoc explanation of the output. In this paper, we propose feature extracting functions for integrating human knowledge abstracted as logic rules into the predictive behaviour of a neural network. These functions are embodied as programming functions, which represent the applicable domain knowledge as a set of logical instructions and provide a modified distribution of independent features on input data. Unlike other existing neural logic approaches, the programmatic nature of these functions implies that they do not require any kind of special mathematical encoding, which makes our method very general and flexible in nature. We illustrate the performance of our approach for sentiment classification and compare our results to those obtained using two baselines.},
+isbn={978-3-030-73973-7},
+pdf= {SSSPR_2020_paper_44.pdf},
+preview={springer.png},
+selected= {false},
+abbr= {SSPR},
+}
+
