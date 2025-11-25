@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-teaching",
-    title: "teaching",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/al-folio/";
@@ -28,14 +28,22 @@ ninja.data = [{
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/";
+            window.location.href = "/al-folio/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-i-am-serving-as-a-workshops-co-organizer-for-the-web-conference-2026-www-26-to-be-held-in-dubai-uae",
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/al-folio/news/announcement_2/";
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-am-serving-as-a-workshops-co-organizer-for-the-web-conference-2026-www-26-to-be-held-in-dubai-uae",
           title: 'I am serving as a workshops co-organizer for The Web Conference 2026 (WWW’26),...',
           description: "",
           section: "News",},{id: "projects-project-1",
