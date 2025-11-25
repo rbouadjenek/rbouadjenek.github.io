@@ -69,22 +69,22 @@ nav_order: 3
 ## Awards              
 <ol reversed>
 <li>  
-    <div class="acmdlitem"> <b><a href="statements/Deakin_SIT_LEADERSHIP.jpg">Deakin School of IT, Outstanding Leadership Award, 2023</a>.</b> This award recognises recognises outstanding leadership in building and growing a productive and impactful research group called Machine Learning for Decision Support (MLDS) at the Geelong Waurn Ponds campus.
+    <div class="acmdlitem"> <b><a href="assets/statements/Deakin_SIT_LEADERSHIP.jpg">Deakin School of IT, Outstanding Leadership Award, 2023</a>.</b> This award recognises recognises outstanding leadership in building and growing a productive and impactful research group called Machine Learning for Decision Support (MLDS) at the Geelong Waurn Ponds campus.
     </div>
 </li>
 
 <li>  
-    <div class="acmdlitem"> <b><a href="statements/Deakin_SIT_IEA.jpg">Deakin Vice-Chancellor's Award for Outstanding Contribution to Environmental Sustainability, 2022</a>.</b> This award recognises excellent contribution to the AI Competition for Sustainable Development Goals and the advancement of the University’s Strategic Plan, Deakin 2030: Ideas to Impact.
+    <div class="acmdlitem"> <b><a href="assets/statements/Deakin_SIT_IEA.jpg">Deakin Vice-Chancellor's Award for Outstanding Contribution to Environmental Sustainability, 2022</a>.</b> This award recognises excellent contribution to the AI Competition for Sustainable Development Goals and the advancement of the University’s Strategic Plan, Deakin 2030: Ideas to Impact.
     </div>
 </li>
 
 <li>  
-    <div class="acmdlitem"> <b><a href="statements/Deakin_SIT_LEADSAIC.jpg">Deakin School of IT, Learner Engagement Award for The Deakin Simpsons AI Challenge, 2022</a>.</b> This award recognises excellent contribution to the Deakin student community through the organization of an AI competition that focused student engagement on practical skills development with the goal of strengthening graduate employment outcomes.
+    <div class="acmdlitem"> <b><a href="assets/statements/Deakin_SIT_LEADSAIC.jpg">Deakin School of IT, Learner Engagement Award for The Deakin Simpsons AI Challenge, 2022</a>.</b> This award recognises excellent contribution to the Deakin student community through the organization of an AI competition that focused student engagement on practical skills development with the goal of strengthening graduate employment outcomes.
     </div>
 </li>
 
 <li>  
-    <div class="acmdlitem"> <b><a href="statements/Deakin_SIT_IEA.jpg"> Deakin School of IT, Industry Engagement Award, 2022</a>.</b> This award recognises excellent contribution for excellence in industry collaboration and partnerships.
+    <div class="acmdlitem"> <b><a href="assets/statements/Deakin_SIT_IEA.jpg"> Deakin School of IT, Industry Engagement Award, 2022</a>.</b> This award recognises excellent contribution for excellence in industry collaboration and partnerships.
     </div>
 </li>
 
@@ -92,7 +92,7 @@ nav_order: 3
 
 
 <li>   
-    <div class="acmdlitem"> <b> <a href="img/mdm2022-demo-paper-award.jpg"  target="_blank">Best demo award</a>:</b> Ngoc Dung Huynh, Mohamed Reda Bouadjenek, Ali Hassani, Imran Razzak, Kevin Lee, Chetan Arora, and Arkady Zaslavskya. <a href="papers/MDM2022.pdf" > Jarvis: A Voice-based Context-as-a-Service Mobile Tool for a Smart Home Environment.</a> The 23rd IEEE International Conference on Mobile Data Management (MDM),  318-312, 2022. 
+    <div class="acmdlitem"> <b> <a href="assets/img/mdm2022-demo-paper-award.jpg"  target="_blank">Best demo award</a>:</b> Ngoc Dung Huynh, Mohamed Reda Bouadjenek, Ali Hassani, Imran Razzak, Kevin Lee, Chetan Arora, and Arkady Zaslavskya. <a href="papers/MDM2022.pdf" > Jarvis: A Voice-based Context-as-a-Service Mobile Tool for a Smart Home Environment.</a> The 23rd IEEE International Conference on Mobile Data Management (MDM),  318-312, 2022. 
     </div>
 </li>
 </ol>
