@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: This page provides an exhaustive overview of my publication record, including journal articles, conference papers, and other scholarly contributions.
 nav: true
 nav_order: 4

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <span class="font-weight-bold"> Senior Lecturer</span>, Applied Artificial Intelligence<br>School of IT, <a href='https://www.deakin.edu.au/'>Deakin University</a>
 
