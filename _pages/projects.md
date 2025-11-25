@@ -39,22 +39,22 @@ research:
                                                                                                 
 <ul>
 <li>In Social Information Retrieval <span>[<a 
-href="papers/IS-D-14-351.pdf">1</a>]</span>, I have extended conventional Information Retrieval models in
+href="../assets/pdf/IS-D-14-351.pdf">1</a>]</span>, I have extended conventional Information Retrieval models in
 order to incorporate side social information. Specifically, I have introduced a novel ranking function
-<span >[<a href="papers/sp086-bouadjenek.pdf">2</a>]</span>, a new Information Retrieval modeling schema <span class="cite">[<a 
-href="papers/sp085-bouadjenek.pdf">3</a>,&#x00A0;<a 
-href="papers/INS-D-15-2480.pdf">4</a>]</span>, and a query expansion algorithm <span>[<a href="papers/p1113-bouadjenek.pdf">5</a>,&#x00A0;<a 
-href="papers/TLDKS-12008.pdf">6</a>]</span> all
+<span >[<a href="../assets/pdf/sp086-bouadjenek.pdf">2</a>]</span>, a new Information Retrieval modeling schema <span class="cite">[<a 
+href="../assets/pdf/sp085-bouadjenek.pdf">3</a>,&#x00A0;<a 
+href="../assets/pdf/INS-D-15-2480.pdf">4</a>]</span>, and a query expansion algorithm <span>[<a href="../assets/pdf/p1113-bouadjenek.pdf">5</a>,&#x00A0;<a 
+href="../assets/pdf/TLDKS-12008.pdf">6</a>]</span> all
 based on innovative social features. These contributions have been integrated into a social web search
 engine called LAICOS <span>[<a 
-href="papers/demo16-bouadjenek.pdf">7</a>]</span>, which represented some of my major contributions to the area of Social
+href="../assets/pdf/demo16-bouadjenek.pdf">7</a>]</span>, which represented some of my major contributions to the area of Social
 Information Retrieval.
 </li>
 <li>In data quality for collaborative bioinformatics databases (e.g., <span class="cite">[<a 
-href="papers/bax021.pdf">8</a>,&#x00A0;<a 
-href="papers/JBI-17-134.pdf">9</a>,&#x00A0;<a 
-href="papers/sp0228-bouadjenek.pdf">10</a>,&#x00A0;<a 
-href="papers/BINF-D-18-00977.pdf">11</a>]</span>), I have addressed the
+href="../assets/pdf/bax021.pdf">8</a>,&#x00A0;<a 
+href="../assets/pdf/JBI-17-134.pdf">9</a>,&#x00A0;<a 
+href="../assets/pdf/sp0228-bouadjenek.pdf">10</a>,&#x00A0;<a 
+href="../assets/pdf/BINF-D-18-00977.pdf">11</a>]</span>), I have addressed the
 problem of identifying low-quality and suspicious records based on literature analysis. These databases
 contain  hundreds  of  millions  of  records  derived  from  submissions  by  individual  laboratories,  as
 well as from bulk submissions from large-scale sequencing centers. Their diversity and scale means
@@ -76,7 +76,7 @@ contain a vast amount of novel and topical content that challenge traditional ne
 in terms of their timeliness and diversity. Yet on the other hand they also contain a vast amount
 of chatter and otherwise low-value content for most users&#8217; information needs where filtering out
 irrelevant content is extremely time-consuming. My previous work on twitter topic classification <span class="cite">[<a 
-href="papers/ICWSM2017.pdf">12</a>]</span>
+href="../assets/pdf/ICWSM2017.pdf">12</a>]</span>
 has noted this need for topic-based filtering and has adopted a range of variations on supervised
 classification techniques to build effective topic filters. However, there remain many fundamental
 research questions that need to be answered on a longitudinal study of the performance of such
@@ -141,7 +141,7 @@ sites,  and  online  game  platforms.  These  services  provide  valuable  infor
 recommendation  and  IR.  A  critical  question  is  how  to  extend  existing  solutions  into  a  unified
 framework that considers multiple and diverse data sources? I have attempted to answer this question
 for recommendation using a co-matrix factorization approach of multiple data sources <span class="cite">[<a 
-href="papers/DBKDA2018_v2.0.pdf">13</a>]</span>.
+href="../assets/pdf/DBKDA2018_v2.0.pdf">13</a>]</span>.
 </li>
 <li class="enumerate" id="x1-5004x2"><b>Real-time analysis of large-scale data: </b>considering stream data analysis is important for most
 existing data mining techniques. But how to do it? Although it&#8217;s a significant challenge in data
