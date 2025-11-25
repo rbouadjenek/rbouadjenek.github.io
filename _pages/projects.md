@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Overview - From Data to Decision-making for Better Services
+title: Research
 permalink: /research/
 description: 
 nav: true
