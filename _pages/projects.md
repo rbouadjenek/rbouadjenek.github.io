@@ -37,31 +37,33 @@ information, and proposing novel extensions are also at the heart of my work. As
 research:
                                                                                                 
                                                                                                 
-     <ul class="itemize1">
-     <li class="itemize">In Social Information Retrieval <span class="cite">[<a 
+<ul>
+<li>In Social Information Retrieval <span>[<a 
 href="papers/IS-D-14-351.pdf">1</a>]</span>, I have extended conventional Information Retrieval models in
-     order to incorporate side social information. Specifically, I have introduced a novel ranking function
-     <span class="cite">[<a href="papers/sp086-bouadjenek.pdf">2</a>]</span>, a new Information Retrieval modeling schema <span class="cite">[<a 
+order to incorporate side social information. Specifically, I have introduced a novel ranking function
+<span >[<a href="papers/sp086-bouadjenek.pdf">2</a>]</span>, a new Information Retrieval modeling schema <span class="cite">[<a 
 href="papers/sp085-bouadjenek.pdf">3</a>,&#x00A0;<a 
-href="papers/INS-D-15-2480.pdf">4</a>]</span>, and a query expansion algorithm <span class="cite">[<a href="papers/p1113-bouadjenek.pdf">5</a>,&#x00A0;<a 
+href="papers/INS-D-15-2480.pdf">4</a>]</span>, and a query expansion algorithm <span>[<a href="papers/p1113-bouadjenek.pdf">5</a>,&#x00A0;<a 
 href="papers/TLDKS-12008.pdf">6</a>]</span> all
-     based on innovative social features. These contributions have been integrated into a social web search
-     engine called LAICOS <span class="cite">[<a 
+based on innovative social features. These contributions have been integrated into a social web search
+engine called LAICOS <span>[<a 
 href="papers/demo16-bouadjenek.pdf">7</a>]</span>, which represented some of my major contributions to the area of Social
-     Information Retrieval.
-     </li>
-     <li class="itemize">In data quality for collaborative bioinformatics databases (e.g., <span class="cite">[<a 
+Information Retrieval.
+</li>
+<li>In data quality for collaborative bioinformatics databases (e.g., <span class="cite">[<a 
 href="papers/bax021.pdf">8</a>,&#x00A0;<a 
 href="papers/JBI-17-134.pdf">9</a>,&#x00A0;<a 
 href="papers/sp0228-bouadjenek.pdf">10</a>,&#x00A0;<a 
 href="papers/BINF-D-18-00977.pdf">11</a>]</span>), I have addressed the
-     problem of identifying low-quality and suspicious records based on literature analysis. These databases
-     contain  hundreds  of  millions  of  records  derived  from  submissions  by  individual  laboratories,  as
-     well as from bulk submissions from large-scale sequencing centers. Their diversity and scale means
-     that they suffer from a range of data quality issues including errors, discrepancies, redundancies,
-     ambiguities, and incompleteness. In that context, I have combined a set of information retrieval and
-     machine learning techniques while using the published literature as a background knowledge to detect
-     literature-inconsistent records.</li></ul>
+problem of identifying low-quality and suspicious records based on literature analysis. These databases
+contain  hundreds  of  millions  of  records  derived  from  submissions  by  individual  laboratories,  as
+well as from bulk submissions from large-scale sequencing centers. Their diversity and scale means
+that they suffer from a range of data quality issues including errors, discrepancies, redundancies,
+ambiguities, and incompleteness. In that context, I have combined a set of information retrieval and
+machine learning techniques while using the published literature as a background knowledge to detect
+literature-inconsistent records.</li>
+</ul>
+
 With the increasing level of business competitiveness, investigating more intelligent and faster ways of analyzing,
 exploring, using, and mining the data is a key aspect for many businesses. Hence, my objective is to go deep in the
 development and the usage of data analytics in different areas from both academic and industry perspectives. To
@@ -131,28 +133,29 @@ amount of research to improve data processing, retrieval and recommendation tech
                                                                                                 
 framework. To this end, following are a few key areas where my future research will help close the loop between
 data and decisions:
-     <ol  class="enumerate1" >
-     <li class="enumerate" id="x1-5002x1"><b>Combining diverse side information for recommendation and IR: </b>users are interacting on
-     diverse online services such as social network platforms, collaborative tagging sites, microblogging
-     sites,  and  online  game  platforms.  These  services  provide  valuable  information  to  enhance
-     recommendation  and  IR.  A  critical  question  is  how  to  extend  existing  solutions  into  a  unified
-     framework that considers multiple and diverse data sources? I have attempted to answer this question
-     for recommendation using a co-matrix factorization approach of multiple data sources <span class="cite">[<a 
+
+<ol  class="enumerate1" >
+<li class="enumerate" id="x1-5002x1"><b>Combining diverse side information for recommendation and IR: </b>users are interacting on
+diverse online services such as social network platforms, collaborative tagging sites, microblogging
+sites,  and  online  game  platforms.  These  services  provide  valuable  information  to  enhance
+recommendation  and  IR.  A  critical  question  is  how  to  extend  existing  solutions  into  a  unified
+framework that considers multiple and diverse data sources? I have attempted to answer this question
+for recommendation using a co-matrix factorization approach of multiple data sources <span class="cite">[<a 
 href="papers/DBKDA2018_v2.0.pdf">13</a>]</span>.
-     </li>
-     <li class="enumerate" id="x1-5004x2"><b>Real-time analysis of large-scale data: </b>considering stream data analysis is important for most
-     existing data mining techniques. But how to do it? Although it&#8217;s a significant challenge in data
-     mining, different options are possible. One direction consists of exploring the possibility of updating
-     models without their complete re-computation (incremental learning).
-     </li>
-     <li class="enumerate" id="x1-5006x3"> <b>Large-scale data visualization: </b> many applications such as real-time monitoring of social network
-     activities or urban traffic congestion reports involve high information and cognitive load tasks. In this
-     context, it is common to have large-scale information visualization interfaces to concurrently display
-     system status, alerts, and events. However, displaying all information elements simultaneously would
-     result in a saturated and unreadable display. Thus, the development of novel adaptive user interfaces
-     (AUIs) are required to help focus the user&#8217;s attention by filtering information relevant to their current
-     task. How to optimally set the parameters of filters is a problem that I intend to formalize as a
-     Mixed-integer Linear Programming for which we have optimal solvers.</li></ol>
+</li>
+<li class="enumerate" id="x1-5004x2"><b>Real-time analysis of large-scale data: </b>considering stream data analysis is important for most
+existing data mining techniques. But how to do it? Although it&#8217;s a significant challenge in data
+mining, different options are possible. One direction consists of exploring the possibility of updating
+models without their complete re-computation (incremental learning).
+</li>
+<li class="enumerate" id="x1-5006x3"> <b>Large-scale data visualization: </b> many applications such as real-time monitoring of social network
+activities or urban traffic congestion reports involve high information and cognitive load tasks. In this
+context, it is common to have large-scale information visualization interfaces to concurrently display
+system status, alerts, and events. However, displaying all information elements simultaneously would
+result in a saturated and unreadable display. Thus, the development of novel adaptive user interfaces
+(AUIs) are required to help focus the user&#8217;s attention by filtering information relevant to their current
+task. How to optimally set the parameters of filters is a problem that I intend to formalize as a
+Mixed-integer Linear Programming for which we have optimal solvers.</li></ol>
 
 Overall, my vision for the future is simple: social media is connecting everything, Web services are becoming more
 interactive and personalized, and every embedded system that impacts our lives &#8212; from our daily commute to our
