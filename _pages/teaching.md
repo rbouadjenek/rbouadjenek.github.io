@@ -95,6 +95,6 @@ nav_order: 6
 ## Project Supervising
 During my Ph.D. thesis, I also supervised some projects.
 <ul>
-    <li>2013: A Folksonomy Indexing Engine.
+    <li>2013: A Folksonomy Indexing Engine.</li>
     <li>2012: Enhanced Documents' Representation With Social Annotations.</li>
 </ul>
