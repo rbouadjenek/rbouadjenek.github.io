@@ -18,7 +18,7 @@ nav_order: 5
 </ul>
 
 ## Deakin University, Australia
-### Lecturer, 2025<
+### Lecturer, 2025
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
