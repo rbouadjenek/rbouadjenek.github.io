@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ## Accreditation 
-<a href="../assets/statements/pdf/RedaBouadjenek-Fellowship.pdf">Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
+<a href="../assets/statements/RedaBouadjenek-Fellowship.pdf">Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
 ## Seminars 
 <ul>
 <li>Lecture 4  (May 2023): Variational AutoEncoder. <a href="../assets/pdf/vae_Reda@Deakin.pdf"> [pdf] </a> <a href="../assets/pdf/vae_Reda@Deakin.pptx"> [pptx] </a></li>
