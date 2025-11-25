@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-grant-and-awards",
+  },{id: "nav-research-overview-from-data-to-decision-making-for-better-services",
+          title: "Research Overview - From Data to Decision-making for Better Services",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/research/";
+          },
+        },{id: "nav-grant-and-awards",
           title: "Grant and Awards",
           description: "",
           section: "Navigation",
