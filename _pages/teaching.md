@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-            
+## Reda            
 ## Accreditation 
 <a href="statements/RedaBouadjenek-Fellowship.pdf">Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
 ## Seminars 
