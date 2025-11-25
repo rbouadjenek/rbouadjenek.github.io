@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-research-overview-from-data-to-decision-making-for-better-services",
-          title: "Research Overview - From Data to Decision-making for Better Services",
+  },{id: "nav-research",
+          title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
