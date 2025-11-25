@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-research",
+          title: "research",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/projects/";
+            window.location.href = "/al-folio/research/";
           },
         },{id: "nav-grants-and-awards",
           title: "grants and awards",
