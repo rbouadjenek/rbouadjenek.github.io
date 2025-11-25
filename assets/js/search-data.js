@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "This page provides an exhaustive overview of my publication record, including journal articles, conference papers, and other scholarly contributions.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/projects/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/teaching/";
           },
         },{id: "nav-grants-and-awards",
           title: "grants and awards",
@@ -36,6 +22,20 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/grants_awards/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "This page provides an exhaustive overview of my publication record, including journal articles, conference papers, and other scholarly contributions.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/publications/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
