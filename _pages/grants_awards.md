@@ -49,7 +49,7 @@ nav_order: 3
 </li> 
 
 <li>   
-    <div class="acmdlitem"> <b>2021: Principal Investigator</b>, <a href="https://rbouadjenek.github.io/deakin-ai-challenge2022/"><i>Deakin AI Challenge 2021</i></a>, <b>AUD 1,000</b>, funded by the Community Bank at Deakin University.
+    <div class="acmdlitem"> <b>2021: Principal Investigator</b>, <a href="https://rbouadjenek.github.io/deakin-ai-challenge2021/"><i>Deakin AI Challenge 2021</i></a>, <b>AUD 1,000</b>, funded by the Community Bank at Deakin University.
     </div>
 </li>
 
