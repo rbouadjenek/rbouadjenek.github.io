@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/al-folio/";
     },
   },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/research/";
           },
-        },{id: "nav-grants-and-awards",
-          title: "grants and awards",
+        },{id: "nav-grant-and-awards",
+          title: "Grant and Awards",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/grants_awards/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "This page provides an exhaustive overview of my publication record, including journal articles, conference papers, and other scholarly contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/publications/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
