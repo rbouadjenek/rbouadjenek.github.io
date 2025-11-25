@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/teaching/";
           },
+        },{id: "nav-grants-and-awards",
+          title: "grants and awards",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/grants_awards/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
