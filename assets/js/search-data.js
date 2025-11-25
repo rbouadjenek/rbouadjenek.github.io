@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/_pages/teaching/";
+            window.location.href = "/al-folio/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
