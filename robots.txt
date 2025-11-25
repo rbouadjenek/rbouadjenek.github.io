@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rbouadjenek.github.io//al-folio/sitemap.xml
+Sitemap: https://rbouadjenek.github.io//sitemap.xml
