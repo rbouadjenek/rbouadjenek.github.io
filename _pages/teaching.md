@@ -18,16 +18,22 @@ nav_order: 5
 </ul>
 
 ## Deakin University, Australia
+### Lecturer, 2026
+<ul>
+<li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
+<li><a href="https://sit330-770.github.io/2026/">SIT330/770, Natural Language Processing</a> (T1).</li>
+</ul>
+
 ### Lecturer, 2025
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
-<li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
+<li><a href="https://sit330-770.github.io/2025/">SIT330/770, Natural Language Processing</a> (T1).</li>
 </ul>
 
 ### Lecturer, 2024
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
-<li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
+<li><a href="https://sit330-770.github.io/2024/">SIT330/770, Natural Language Processing</a> (T1).</li>
 </ul>
 
 ### Lecturer, 2023
