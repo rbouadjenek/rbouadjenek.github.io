@@ -95,6 +95,11 @@ nav_order: 3
     <div class="acmdlitem"> <b> <a href="../assets/img/mdm2022-demo-paper-award.jpg"  target="_blank">Best demo award</a>:</b> Ngoc Dung Huynh, Mohamed Reda Bouadjenek, Ali Hassani, Imran Razzak, Kevin Lee, Chetan Arora, and Arkady Zaslavskya. <a href="../assets/pdf/MDM2022.pdf" > Jarvis: A Voice-based Context-as-a-Service Mobile Tool for a Smart Home Environment.</a> The 23rd IEEE International Conference on Mobile Data Management (MDM),  318-312, 2022. 
     </div>
 </li>
+
+<li>   
+    <div class="acmdlitem"> <b> <a href="../assets/img/dbkda2018_a2.pdf"  target="_blank">Best Paper Award</a>:</b> Mohamed Reda Bouadjenek, Esther Pacitti, Maximilien Servajean, Florent Masseglia, and Amr El Abbadi. <a href="../assets/pdf/DBKDA2018_v2.0.pdf" > A Distributed Collaborative Filtering Algorithm Using Multiple Data Sources.</a> In The Tenth International Conference on Advances in Databases, Knowledge, and Data Applications, Nice, France, Mar 2018. 
+    </div>
+</li>
 </ol>
        
 
