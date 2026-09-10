@@ -7,10 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-# From Information to Intelligence: Building Relevant, Trustworthy, and Efficient AI Systems
+## From Information to Intelligence: Building Relevant, Trustworthy, and Efficient AI Systems
 
 
-## Introduction
+### Introduction
 
 The rapid evolution of artificial intelligence is fundamentally changing how information is produced, accessed, interpreted, and used for decision-making. Early information systems were primarily concerned with storing, searching, and retrieving information. The emergence of the social Web introduced a new challenge: users became both consumers and producers of massive quantities of heterogeneous and continuously evolving data. More recently, advances in machine learning, deep learning, and large language models (LLMs) have transformed information systems again—from systems that primarily retrieve and rank existing information into intelligent systems capable of learning representations, making predictions and recommendations, generating content, and interacting directly with users.
 
@@ -22,9 +22,9 @@ Despite their apparent diversity, these research directions address a common que
 
 I organize my research around three complementary themes: **Relevant AI**, which seeks to understand what information is useful and to whom; **Trustworthy AI**, which addresses whether intelligent systems make reliable, robust, and justifiable decisions; and **Efficient AI**, which asks how these capabilities can be delivered under realistic computational constraints.
 
-## Past and Current Research (The Foundation)
+### Past and Current Research (The Foundation)
 
-### Relevant AI: From IR to Intelligent Recommendation
+#### Relevant AI: From IR to Intelligent Recommendation
 
 My early research focused on **personalized and social information retrieval**. Traditional retrieval systems primarily model relevance as a relationship between a query and a document. I investigated how this view could be extended by incorporating information about users, their interests, social relationships, and interactions with information.
 
@@ -36,7 +36,7 @@ I subsequently explored this principle in specialized retrieval and recommendati
 
 My research then extended from search to **recommender systems**. I have worked on collaborative filtering using multiple data sources [bouadjenek2018dbkda], generative recommendation models [10.1145/3331184.3331292], and diversification [10.1145/3477495.3531890]. More recently, I have investigated **conversational recommendation**, including how user preferences evolve through interaction [10.1145/3442381.3450123, 10.1145/3597499] and how language-model-driven systems may introduce unintended biases [SHEN2023103139]. These directions represent a natural continuation of my earlier work on personalization: the objective remains to understand the user's information need and deliver information that is relevant to that particular context.
 
-### Trustworthy AI: From Prediction to Reliable Intelligence
+#### Trustworthy AI: From Prediction to Reliable Intelligence
 
 As my research moved increasingly toward machine learning, a second question became central: **can we trust how a model reaches its decisions?** Predictive accuracy alone is insufficient when a system can obtain the correct answer for the wrong reason, fail under distribution shift, violate known structural constraints, or reproduce unintended biases [GUPTA2023110685, 10884425, SHEN2023103139].
 
@@ -52,7 +52,7 @@ I have also investigated the challenges created by **missing and imperfect data*
 
 Across explainability, hierarchical learning, OOD detection, bias, and missing data, the underlying objective is the same: to move beyond systems that merely produce accurate predictions toward systems whose behaviour is **reliable, structured, and understandable**.
 
-### Efficient AI: From the Cloud to the Edge
+#### Efficient AI: From the Cloud to the Edge
 
 The rapid growth of modern AI introduces a third challenge: **computational efficiency**. Increasing model size has produced remarkable capabilities, but also substantial costs in computation, memory, communication, energy, latency, and infrastructure.
 
@@ -64,7 +64,7 @@ This research has led me to a broader question that is becoming particularly imp
 
 Rather than treating efficiency as an implementation problem that is addressed after a model has been developed, I view computational resources as part of the **learning and decision problem itself**. This perspective motivates my current and future research on adaptive and resource-aware AI [khouas2026training].
 
-## Future Research
+### Future Research
 
 My future research will bring **relevance, trustworthiness, and efficiency** together in the context of foundation models and intelligent information systems.
 
@@ -74,7 +74,7 @@ A second direction is **trustworthy and knowledge-aware foundation models**. My 
 
 Finally, I am interested in the growing convergence of **information retrieval, recommendation, and generative AI**. Search retrieves information, recommendation selects information for particular users, and generative models synthesize information into answers. Future intelligent systems will increasingly combine all three. My research on personalized retrieval, recommendation, user interaction, and trustworthy AI provides a foundation for developing retrieval-augmented and conversational systems that decide **what to retrieve, what to trust, how to personalize it, and how much computation to expend**.
 
-## Research Vision
+### Research Vision
 
 The evolution of my research can be summarized as a progression **from information to intelligence**. My early research asked how systems could identify **the right information for the right user**. My subsequent work investigated how learning algorithms could operate on complex, dynamic, and imperfect data. My more recent research asks whether their decisions are **trustworthy** and whether increasingly powerful AI models can operate **efficiently**.
 
