@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span class="font-weight-bold"> Senior Lecturer</span>, Applied Artificial Intelligence<br>School of IT, <a href='https://www.deakin.edu.au/'>Deakin University</a>
+subtitle: <span class="font-weight-bold"> Senior Lecturer</span>, Applied Artificial Intelligence<br>Faculty of Science Engineering and Built Environment/School of Information Technology <br>School of IT, <a href='https://www.deakin.edu.au/'>Deakin University</a>
 
 profile:
   align: right
